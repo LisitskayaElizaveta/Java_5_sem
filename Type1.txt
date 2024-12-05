@@ -1,0 +1,9 @@
+Примеры бызовых типов: 
+byte  0, 10;
+short 0, 12345;
+int 0, 12345678;
+long 0, 123456789999;
+float 0.0f, 1.234f;
+double 0.0, 1.2345678d;
+char  0, 'a';
+boolean false, true;
