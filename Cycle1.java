@@ -3,9 +3,10 @@ public class Cycle1 {
         while (true) {
             System.out.println("while"); // в блоке нет условия выхода
         }
-
+        /*
         do {
             System.out.println("do-while"); // в блоке нет условия выхода - бесконечный
         } while (true);
+         */
     }
 }
